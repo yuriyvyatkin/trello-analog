@@ -1,0 +1,16 @@
+# production
+dist
+
+# dependencies
+node_modules
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# VS Code
+.vscode
+
+# CSS comb
+.csscomb.json
